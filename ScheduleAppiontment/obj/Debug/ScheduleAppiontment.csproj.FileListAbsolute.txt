@@ -1,0 +1,7 @@
+C:\Users\rzj\Desktop\misc\ScheduleAppiontment\ScheduleAppiontment\ScheduleAppiontment\bin\Debug\ScheduleAppiontment.exe.config
+C:\Users\rzj\Desktop\misc\ScheduleAppiontment\ScheduleAppiontment\ScheduleAppiontment\bin\Debug\ScheduleAppiontment.exe
+C:\Users\rzj\Desktop\misc\ScheduleAppiontment\ScheduleAppiontment\ScheduleAppiontment\bin\Debug\ScheduleAppiontment.pdb
+C:\Users\rzj\Desktop\misc\ScheduleAppiontment\ScheduleAppiontment\ScheduleAppiontment\obj\Debug\ScheduleAppiontment.csproj.CoreCompileInputs.cache
+C:\Users\rzj\Desktop\misc\ScheduleAppiontment\ScheduleAppiontment\ScheduleAppiontment\obj\Debug\ScheduleAppiontment.exe
+C:\Users\rzj\Desktop\misc\ScheduleAppiontment\ScheduleAppiontment\ScheduleAppiontment\obj\Debug\ScheduleAppiontment.pdb
+C:\Users\rzj\Desktop\misc\ScheduleAppiontment\ScheduleAppiontment\ScheduleAppiontment\obj\Debug\ScheduleAppiontment.csprojAssemblyReference.cache
